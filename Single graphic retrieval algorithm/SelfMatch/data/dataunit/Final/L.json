@@ -1,0 +1,43 @@
+[
+	{
+		"id": 1,
+		"isAngleConstraint": false,
+		"isRepeat": false,
+		"isFirst": true,
+		"degree": 2,
+		"isLengthConstraint": false,
+		"center": false
+	},
+	{
+		"id": 2,
+		"frontId": 1,
+		"isAngleConstraint": false,
+		"isRepeat": false,
+		"isFirst": false,
+		"degree": 1,
+		"isLengthConstraint": false
+	},
+	{
+		"id": 1,
+		"frontId": 2,
+		"isAngleConstraint": true,
+		"angle": 270.0,
+		"isRepeat": false,
+		"isFirst": false,
+		"degree": 2,
+		"isLengthConstraint": false
+	},
+	{
+		"id": 3,
+		"frontId": 1,
+		"isAngleConstraint": false,
+		"isRepeat": false,
+		"isFirst": false,
+		"degree": 1,
+		"isLengthConstraint": true,
+		"contrastLSId": 1,
+		"contrastLEId": 2,
+		"minRatio": 1.98,
+		"maxRatio": 2.02
+	}
+]

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aae87fec-ef40-4693-ba52-5216f182b734" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2IJbEqdsl7LIp2z72MH060T71tu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SelfMatch_20230216" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2514552" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SelfMatch" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Run" />
+      <module name="SelfMatch" />
+      <option name="PROGRAM_PARAMETERS" value="-Xms1024M -Xmx10240M" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aae87fec-ef40-4693-ba52-5216f182b734" name="Changes" comment="" />
+      <created>1669902527155</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669902527155</updated>
+      <workItem from="1669902528567" duration="3066000" />
+      <workItem from="1669905678797" duration="6723000" />
+      <workItem from="1669968482951" duration="95971000" />
+      <workItem from="1670735722395" duration="49751000" />
+      <workItem from="1671003126397" duration="6171000" />
+      <workItem from="1671083721854" duration="19535000" />
+      <workItem from="1671851641761" duration="5000" />
+      <workItem from="1675568691863" duration="17000" />
+      <workItem from="1675758364788" duration="2556000" />
+      <workItem from="1676021642483" duration="729000" />
+      <workItem from="1676036316718" duration="172000" />
+      <workItem from="1676038432698" duration="23486000" />
+      <workItem from="1676299373828" duration="7795000" />
+      <workItem from="1676460730379" duration="114000" />
+      <workItem from="1676470913112" duration="28598000" />
+      <workItem from="1676970696865" duration="23000" />
+      <workItem from="1677049464237" duration="877000" />
+      <workItem from="1677160056684" duration="8795000" />
+      <workItem from="1677921301514" duration="657000" />
+      <workItem from="1678151779038" duration="27754000" />
+      <workItem from="1678328054828" duration="660000" />
+      <workItem from="1678414310542" duration="84515000" />
+      <workItem from="1679298183320" duration="11000" />
+      <workItem from="1679298213880" duration="473000" />
+      <workItem from="1684072604758" duration="3055000" />
+      <workItem from="1684213506877" duration="75667000" />
+      <workItem from="1684643485176" duration="3374000" />
+      <workItem from="1684854554195" duration="10943000" />
+      <workItem from="1685187752474" duration="31149000" />
+      <workItem from="1685929189849" duration="32000" />
+      <workItem from="1690296124341" duration="606000" />
+      <workItem from="1690378534988" duration="1653000" />
+      <workItem from="1690856518594" duration="50000" />
+      <workItem from="1691559823377" duration="1519000" />
+      <workItem from="1691846816678" duration="34258000" />
+      <workItem from="1692110190973" duration="25185000" />
+      <workItem from="1692415004743" duration="2029000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="com.alibaba.fastjson2.JSONException" package="com.alibaba.fastjson2" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

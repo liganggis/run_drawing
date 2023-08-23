@@ -1,0 +1,102 @@
+[
+	{
+		"id": 3,
+		"isAngleConstraint": false,
+		"isRepeat": false,
+		"isFirst": true,
+		"degree": 3,
+		"isLengthConstraint": false
+	},
+	{
+		"id": 2,
+		"frontId": 3,
+		"isAngleConstraint": true,
+		"angle": 90.0,
+		"isRepeat": false,
+		"isFirst": false,
+		"degree": 3,
+		"isLengthConstraint": false
+	},
+	{
+		"id": 1,
+		"frontId": 2,
+		"isAngleConstraint": true,
+		"angle": 90.0,
+		"isRepeat": false,
+		"isFirst": false,
+		"degree": 2,
+		"isLengthConstraint": true,
+		"contrastLSId": 3,
+		"contrastLEId": 2,
+		"minRatio": 0.75,
+		"maxRatio": 1.34
+	},
+	{
+		"id": 0,
+		"frontId": 1,
+		"isAngleConstraint": true,
+		"angle": 90.0,
+		"isRepeat": false,
+		"isFirst": false,
+		"degree": 2,
+		"isLengthConstraint": true,
+		"contrastLSId": 3,
+		"contrastLEId": 2,
+		"minRatio": 0.75,
+		"maxRatio": 1.34
+	},
+	{
+		"id": 3,
+		"frontId": 0,
+		"isAngleConstraint": true,
+		"angle": 180.0,
+		"isRepeat": true,
+		"isFirst": false,
+		"degree": 3,
+		"isLengthConstraint": true,
+		"contrastLSId": 3,
+		"contrastLEId": 2,
+		"minRatio": 0.75,
+		"maxRatio": 1.34
+	},
+	{
+		"id": 5,
+		"frontId": 3,
+		"isAngleConstraint": true,
+		"angle": 90.0,
+		"isRepeat": false,
+		"isFirst": false,
+		"degree": 2,
+		"isLengthConstraint": true,
+		"contrastLSId": 3,
+		"contrastLEId": 2,
+		"minRatio": 0.75,
+		"maxRatio": 1.34
+	},
+	{
+		"id": 4,
+		"frontId": 5,
+		"isAngleConstraint": true,
+		"angle": 90.0,
+		"isRepeat": false,
+		"isFirst": false,
+		"degree": 2,
+		"isLengthConstraint": true,
+		"contrastLSId": 3,
+		"contrastLEId": 2,
+		"minRatio": 0.75,
+		"maxRatio": 1.34
+	},
+	{
+		"id": 2,
+		"isAngleConstraint": false,
+		"isRepeat": true,
+		"isFirst": false,
+		"degree": 3,
+		"isLengthConstraint": true,
+		"contrastLSId": 3,
+		"contrastLEId": 2,
+		"minRatio": 0.75,
+		"maxRatio": 1.34
+	}
+]

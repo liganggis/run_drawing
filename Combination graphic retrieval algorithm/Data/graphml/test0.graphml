@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="width" attr.type="string" for="edge" id="d21" />
+  <key attr.name="access" attr.type="string" for="edge" id="d20" />
+  <key attr.name="service" attr.type="string" for="edge" id="d19" />
+  <key attr.name="tunnel" attr.type="string" for="edge" id="d18" />
+  <key attr.name="junction" attr.type="string" for="edge" id="d17" />
+  <key attr.name="ref" attr.type="string" for="edge" id="d16" />
+  <key attr.name="bridge" attr.type="string" for="edge" id="d15" />
+  <key attr.name="bearing" attr.type="string" for="edge" id="d14" />
+  <key attr.name="length" attr.type="string" for="edge" id="d13" />
+  <key attr.name="maxspeed" attr.type="string" for="edge" id="d12" />
+  <key attr.name="highway" attr.type="string" for="edge" id="d11" />
+  <key attr.name="name" attr.type="string" for="edge" id="d10" />
+  <key attr.name="lanes" attr.type="string" for="edge" id="d9" />
+  <key attr.name="oneway" attr.type="string" for="edge" id="d8" />
+  <key attr.name="osmid" attr.type="string" for="edge" id="d7" />
+  <key attr.name="highway" attr.type="string" for="node" id="d6" />
+  <key attr.name="street_count" attr.type="string" for="node" id="d5" />
+  <key attr.name="x" attr.type="string" for="node" id="d4" />
+  <key attr.name="y" attr.type="string" for="node" id="d3" />
+  <key attr.name="crs" attr.type="string" for="graph" id="d2" />
+  <key attr.name="created_with" attr.type="string" for="graph" id="d1" />
+  <key attr.name="created_date" attr.type="string" for="graph" id="d0" />
+  <graph edgedefault="directed">
+    <node id="1">
+      <data key="d3">30.5196546</data>
+      <data key="d4">114.3269141</data>
+      <data key="d5">3</data>
+    </node>
+    <node id="2">
+      <data key="d3">30.5191444</data>
+      <data key="d4">114.328727</data>
+      <data key="d5">2</data>
+    </node>
+	<node id="3">
+      <data key="d3">30.5191444</data>
+      <data key="d4">114.328727</data>
+      <data key="d5">2</data>
+    </node>
+	<node id="4">
+      <data key="d3">30.5191444</data>
+      <data key="d4">114.328727</data>
+      <data key="d5">2</data>
+    </node>
+	<edge id="0" source="1" target="2">
+      <data key="d7">1037322802</data>
+      <data key="d11">footway</data>
+      <data key="d8">False</data>
+      <data key="d13">50.158</data>
+      <data key="d14">90.2</data>
+    </edge>
+	<edge id="0" source="2" target="3">
+      <data key="d7">1037322800</data>
+      <data key="d11">footway</data>
+      <data key="d8">False</data>
+      <data key="d13">27.631</data>
+      <data key="d14">358.4</data>
+    </edge>
+    <edge id="0" source="3" target="4">
+      <data key="d7">1037322802</data>
+      <data key="d11">footway</data>
+      <data key="d8">False</data>
+      <data key="d13">50.158</data>
+      <data key="d14">90.2</data>
+    </edge>
+	<edge id="0" source="4" target="1">
+      <data key="d7">236668627</data>
+      <data key="d8">True</data>
+      <data key="d9">2</data>
+      <data key="d10">洪山路</data>
+      <data key="d11">secondary</data>
+      <data key="d13">325.384</data>
+      <data key="d14">266.0</data>
+    </edge>
+    <data key="d0">2022-08-26 16:03:42</data>
+    <data key="d1">OSMnx 1.1.1</data>
+    <data key="d2">epsg:4326</data>
+  </graph>
+</graphml>

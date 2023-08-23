@@ -1,0 +1,20 @@
+[
+	{
+		"id": 1,
+		"isAngleConstraint": false,
+		"isRepeat": false,
+		"isFirst": true,
+		"degree": 1,
+		"isLengthConstraint": false,
+		"center": false
+	},
+	{
+		"id": 2,
+		"frontId": 1,
+		"isAngleConstraint": false,
+		"isRepeat": false,
+		"isFirst": false,
+		"degree": 1,
+		"isLengthConstraint": false
+	}
+]

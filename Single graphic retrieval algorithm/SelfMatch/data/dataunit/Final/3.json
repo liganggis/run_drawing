@@ -1,0 +1,89 @@
+[
+	{
+		"id": 1,
+		"isAngleConstraint": false,
+		"isRepeat": false,
+		"isFirst": true,
+		"degree": 3,
+		"isLengthConstraint": false,
+		"center": false
+	},
+	{
+		"id": 2,
+		"isAngleConstraint": true,
+		"angle": 90.0,
+		"isRepeat": false,
+		"isFirst": false,
+		"degree": 2,
+		"isLengthConstraint": false
+	},
+	{
+		"id": 3,
+		"isAngleConstraint": false,
+		"isRepeat": false,
+		"isFirst": false,
+		"degree": 1,
+		"isLengthConstraint": true,
+		"contrastLSId": 1,
+		"contrastLEId": 2,
+		"minRatio": 0.99,
+		"maxRatio": 1.01
+	},
+	{
+		"id": 1,
+		"frontId": 2,
+		"isAngleConstraint": true,
+		"angle": 180.0,
+		"isRepeat": false,
+		"isFirst": false,
+		"degree": 3,
+		"isLengthConstraint": false
+	},
+	{
+		"id": 4,
+		"isAngleConstraint": true,
+		"angle": 270.0,
+		"isRepeat": false,
+		"isFirst": false,
+		"degree": 2,
+		"isLengthConstraint": true,
+		"contrastLSId": 1,
+		"contrastLEId": 2,
+		"minRatio": 0.99,
+		"maxRatio": 1.01
+	},
+	{
+		"id": 5,
+		"isAngleConstraint": false,
+		"isRepeat": false,
+		"isFirst": false,
+		"degree": 1,
+		"isLengthConstraint": true,
+		"contrastLSId": 1,
+		"contrastLEId": 2,
+		"minRatio": 0.99,
+		"maxRatio": 1.01
+	},
+	{
+		"id": 1,
+		"frontId": 2,
+		"isAngleConstraint": true,
+		"angle": 270.0,
+		"isRepeat": false,
+		"isFirst": false,
+		"degree": 3,
+		"isLengthConstraint": false
+	},
+	{
+		"id": 6,
+		"isAngleConstraint": false,
+		"isRepeat": false,
+		"isFirst": false,
+		"degree": 1,
+		"isLengthConstraint": true,
+		"contrastLSId": 1,
+		"contrastLEId": 2,
+		"minRatio": 0.99,
+		"maxRatio": 1.01
+	}
+]
